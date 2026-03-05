@@ -1,4 +1,4 @@
-# Coursera Flutter App
+# Task Management App
 
 A cross-platform task management and habit tracking application built with Flutter. This project demonstrates core mobile development concepts including user authentication, local data persistence, external API integration, and notification management.
 
